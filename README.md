@@ -6,7 +6,7 @@ It uses Haar Cascade Classifiers provided by OpenCV to identify faces in real ti
 ## 📘 Overview
 Face detection is an important part of many computer vision applications such as:
 - Attendance systems  
-- Photo tagging  
+- Photo tagging
 - Surveillance  
 - Human–computer interaction  
 
